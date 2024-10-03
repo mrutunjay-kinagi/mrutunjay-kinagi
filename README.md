@@ -14,8 +14,8 @@ I'm a **Senior Backend Developer** based in Bangalore, specializing in building 
 - **Oracle Certified Associate Java Programmer (OCAJP)**
 
 ## 🎓 Education
-- **Scaler** (2024) - Specialized in Software Development & Problem Solving
-- **BLDEA's CET** (2016) - BE/B.Tech/BS in Computer Science
+- **Scaler Neovarsity(constituent member college of Woolf,Europe)** (2024) - Master of Science in Computer Science 
+- **BLDEA's CET** (2016) - BE in Computer Science
 
 ## 📫 Get in Touch
 - **Email:** [mrutunjay.kinagi@gmail.com](mailto:mrutunjay.kinagi@gmail.com)
