@@ -8,7 +8,7 @@ I'm a **Senior Backend Developer** based in Bangalore, specializing in building 
 - **Frameworks & Libraries:** Microservices, Django, Express.js, LangChain
 - **Databases & Tools:** MySQL, Git, Kafka, Apache Iceberg
 - **Cloud & Technologies:** AWS, Cloud Computing, RAG, Generative AI
-- **Specializations:** AI/ML technologies, Retrieval-Augmented Generation (RAG), Data Engineering, Blockchain Development
+- **Specializations:** AI/ML technologies, Retrieval-Augmented Generation (RAG), Data Engineering, Blockchain 
 
 ## 🌟 Achievements
 - **Oracle Certified Associate Java Programmer (OCAJP)**
