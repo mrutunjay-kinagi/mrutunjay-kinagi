@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Mrutunjay Kinagi
 
-I'm a **Senior Backend Developer** based in Bangalore, specializing in building scalable and efficient backend systems. With a strong background in various programming languages and frameworks, I focus on delivering high-quality software solutions, particularly in the realms of **AI/ML** and **data engineering**. I also have a keen interest in **blockchain** and **crypto development**.
+I'm a **Senior Backend Developer** based in Bangalore, specializing in building scalable and efficient backend systems. With a strong background in various programming languages and frameworks, I focus on delivering high-quality software solutions, particularly in the realms of **AI/ML** and **Data Engineering**. I also have a keen interest in **blockchain** and **crypto development**.
 
 ## 🚀 Skills
 
